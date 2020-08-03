@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="php@ee1728d4-60ce-4c04-a734-a4e39a261f35">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/workspace/lara-test/demo" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
